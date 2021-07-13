@@ -13,7 +13,7 @@ Options:
   -d, --direccion  Direccion de la ciudad para obtener el clima       [required]
 ```
 
-## Example using: ~~node app -d "San Carlos Santo Domingo"~~
+## Example using: node app -d "San Carlos Santo Domingo"
 La Temperatura en San Carlos, Santo Domingo, Dominican Republic es de 28.31
 
 ## Proximamente usare esta app con react :)
